@@ -1,0 +1,157 @@
+# Query sequences extracted from all sequences
+# Format: >Query [index] Length [length] OriginalPosition [position]
+# Sequence: [DNA sequence]
+
+>Query 1 Length 26 OriginalPosition 816
+AATTAGAGTTAGTCGAAGATGGGATA
+
+>Query 2 Length 19 OriginalPosition 360
+GTGTGACCTCCCCGAAACC
+
+>Query 3 Length 15 OriginalPosition 239
+AGAATAAGACGAGAT
+
+>Query 4 Length 28 OriginalPosition 78
+CTAGGTAACAATGCAACTTCCTGACGCA
+
+>Query 5 Length 13 OriginalPosition 5
+TACACATGCTGTA
+
+>Query 6 Length 23 OriginalPosition 60
+ATAGACCATCTTAGAAAGCTAGA
+
+>Query 7 Length 15 OriginalPosition 113
+ATCCTGACCGTCCTC
+
+>Query 8 Length 29 OriginalPosition 45
+TGCTACCGCATGCCAATAGACCATCTTAG
+
+>Query 9 Length 27 OriginalPosition 17
+TTGAATTTTTAACACACTTTGCGGGTG
+
+>Query 10 Length 18 OriginalPosition 462
+TACTATAATCACGTCTCC
+
+>Query 11 Length 21 OriginalPosition 424
+CACCGCGCGATAAATCGTAAA
+
+>Query 12 Length 25 OriginalPosition 276
+TCCGAATTGCCCACCGCTATAATAC
+
+>Query 13 Length 28 OriginalPosition 179
+TATATTATTCATTGTTCAAACCGAGTCG
+
+>Query 14 Length 15 OriginalPosition 67
+CAAACGAGAATCTTG
+
+>Query 15 Length 17 OriginalPosition 27
+TAAGTAGCGGAGCGTGC
+
+>Query 16 Length 27 OriginalPosition 66
+GAGCGCGGTCCCTTGCACTATGTTGCC
+
+>Query 17 Length 12 OriginalPosition 127
+GTCTATTACTAG
+
+>Query 18 Length 29 OriginalPosition 122
+AATATGTCTATTACTAGTGAGGACCCAAC
+
+>Query 19 Length 25 OriginalPosition 90
+GCCGTGCACCGATAATTCTTGGGGT
+
+>Query 20 Length 27 OriginalPosition 121
+TAATATGTCTATTACTAGTGAGGACCC
+
+>Query 21 Length 21 OriginalPosition 17
+TCAACGATATTTACCACTACC
+
+>Query 22 Length 30 OriginalPosition 142
+TAGGTGGCTGTCAGAACTAGAATGCTTAAG
+
+>Query 23 Length 24 OriginalPosition 187
+ATAAGCGTTAACTCTTTGGTAACA
+
+>Query 24 Length 22 OriginalPosition 271
+AATAGCTCTGGTTACACCCTTT
+
+>Query 25 Length 21 OriginalPosition 219
+CGTCGCTCGATGTGAGGTGGA
+
+>Query 26 Length 19 OriginalPosition 148
+GCTGTCAGAACTAGAATGC
+
+>Query 27 Length 27 OriginalPosition 142
+TAGGTGGCTGTCAGAACTAGAATGCTT
+
+>Query 28 Length 17 OriginalPosition 106
+ACGAAGGCAAAACGACG
+
+>Query 29 Length 21 OriginalPosition 88
+GGCGTCCGGGAAGTTTCCACG
+
+>Query 30 Length 10 OriginalPosition 104
+CCACGAAGGC
+
+>Query 31 Length 20 OriginalPosition 44
+TACTGGAACCTTGATAACCT
+
+>Query 32 Length 16 OriginalPosition 211
+AGTTCATTAGATATGT
+
+>Query 33 Length 20 OriginalPosition 535
+GTTTCGTCGGGGGAAGACGT
+
+>Query 34 Length 25 OriginalPosition 229
+GCATGTTATGGAGAGCCCACCCTGG
+
+>Query 35 Length 10 OriginalPosition 51
+ATGGCGGCAT
+
+>Query 36 Length 22 OriginalPosition 565
+CGTACCATTTATCGCGCGCTAA
+
+>Query 37 Length 19 OriginalPosition 360
+TGTCCCCGCAGCTATAGGG
+
+>Query 38 Length 12 OriginalPosition 154
+ACATCAACACCT
+
+>Query 39 Length 13 OriginalPosition 227
+CCGTGCTATAGCC
+
+>Query 40 Length 30 OriginalPosition 55
+ACGGTAGTCTTGCTCTATGACCACAGTCCG
+
+>Query 41 Length 22 OriginalPosition 142
+CAATTCGCGGAGACATCAACAC
+
+>Query 42 Length 27 OriginalPosition 138
+AGCACAATTCGCGGAGACATCAACACC
+
+>Query 43 Length 21 OriginalPosition 480
+CTGGATCACGGTAGTTTAACG
+
+>Query 44 Length 29 OriginalPosition 156
+GACCTAATTCAGCCTTACAAACTCGCTTA
+
+>Query 45 Length 21 OriginalPosition 205
+GCATAATACAAGAGCGCCTCT
+
+>Query 46 Length 16 OriginalPosition 29
+CCGAAACGTACGTTAC
+
+>Query 47 Length 22 OriginalPosition 67
+GCGCTACCAAATTTCCAGATGT
+
+>Query 48 Length 28 OriginalPosition 178
+TCGCTTATTACTCCACCTGTCTGTGGTG
+
+>Query 49 Length 28 OriginalPosition 17
+GCGGAACTGCCACACGGCGACAGGGCTT
+
+>Query 50 Length 26 OriginalPosition 29
+CACGGCGACAGGGCTTCTCATAAACC
+
+>Query 51 Length 23 OriginalPosition 10
+TGTGCAAGCGGAACTGCCACACG
+

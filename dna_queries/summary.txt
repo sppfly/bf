@@ -1,0 +1,21 @@
+DNA Query Sequences Summary
+==============================
+
+Total number of query files: 11
+  - 10 individual query files (one per sequence)
+  - 1 master file with all queries
+
+Total number of queries: 51
+
+Files generated:
+  - queries_from_sequence_1.txt: 5 queries
+  - queries_from_sequence_2.txt: 4 queries
+  - queries_from_sequence_3.txt: 6 queries
+  - queries_from_sequence_4.txt: 6 queries
+  - queries_from_sequence_5.txt: 6 queries
+  - queries_from_sequence_6.txt: 4 queries
+  - queries_from_sequence_7.txt: 6 queries
+  - queries_from_sequence_8.txt: 5 queries
+  - queries_from_sequence_9.txt: 6 queries
+  - queries_from_sequence_10.txt: 3 queries
+  - all_queries.txt: 51 queries

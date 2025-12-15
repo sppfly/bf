@@ -1,0 +1,22 @@
+# Query sequences extracted from dna_sequence_3.txt
+# Format: >Query [index] Length [length] OriginalPosition [position]
+# Sequence: [DNA sequence]
+
+>Query 1 Length 18 OriginalPosition 462
+TACTATAATCACGTCTCC
+
+>Query 2 Length 21 OriginalPosition 424
+CACCGCGCGATAAATCGTAAA
+
+>Query 3 Length 25 OriginalPosition 276
+TCCGAATTGCCCACCGCTATAATAC
+
+>Query 4 Length 28 OriginalPosition 179
+TATATTATTCATTGTTCAAACCGAGTCG
+
+>Query 5 Length 15 OriginalPosition 67
+CAAACGAGAATCTTG
+
+>Query 6 Length 17 OriginalPosition 27
+TAAGTAGCGGAGCGTGC
+
